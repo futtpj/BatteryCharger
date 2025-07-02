@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BatteryCharger", "BatteryCharger.vcxproj", "{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Debug|ARM.Build.0 = Debug|ARM
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Debug|ARM.Deploy.0 = Debug|ARM
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Debug|ARM64.Build.0 = Debug|ARM64
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Release|ARM.ActiveCfg = Release|ARM
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Release|ARM.Build.0 = Release|ARM
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Release|ARM.Deploy.0 = Release|ARM
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Release|ARM64.ActiveCfg = Release|ARM64
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Release|ARM64.Build.0 = Release|ARM64
+		{53E9EE78-CC2D-585D-1BE1-B98F80D828CE}.Release|ARM64.Deploy.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5FB1F9-22D6-4B6C-8E92-1C55B7066276}
+	EndGlobalSection
+EndGlobal
