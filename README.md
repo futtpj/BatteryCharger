@@ -1,6 +1,6 @@
 # BatteryCharger
 - Ardenio mega based
-# Features
+# Features (these features are under review and/or aspiratinal and will change over time)
 - Support for multiple battery chemistries
 - Battery temperature monitoring
 - Battery voltage monitoring
